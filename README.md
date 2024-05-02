@@ -1,4 +1,7 @@
 # MA319-Final-Project
+## MLjong
+MLjong is a reinforcement learning ai to play riichi mahjong using the mjx mahjong
+framework and tensorflow
 
 ## Setup
  - Install all requirements listed in requirements.txt
